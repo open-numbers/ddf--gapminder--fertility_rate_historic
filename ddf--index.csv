@@ -1,0 +1,6 @@
+key,value,file
+concept,name,ddf--concepts.csv
+concept,concept_type,ddf--concepts.csv
+"area,year",total_fertility_rate,ddf--datapoints--total_fertility_rate--by--area--year.csv
+"area,year",total_fertility_rate_interpolated,ddf--datapoints--total_fertility_rate_interpolated--by--area--year.csv
+area,name,ddf--entities--area.csv

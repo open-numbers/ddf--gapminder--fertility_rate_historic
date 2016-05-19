@@ -1,0 +1,6 @@
+concept,name,concept_type
+total_fertility_rate,"Total Fertility Rate (TFR), also called Children per Woman",measure
+total_fertility_rate_interpolated,TFR interpolated,measure
+area,Area,entity_domain
+year,Year,time
+name,Name,string
