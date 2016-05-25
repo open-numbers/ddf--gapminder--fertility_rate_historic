@@ -1,6 +1,8 @@
 key,value,file
 concept,name,ddf--concepts.csv
 concept,concept_type,ddf--concepts.csv
+"area,year",crude_birth_rate,ddf--datapoints--crude_birth_rate--by--area--year.csv
+"area,year",princeton_if_index,ddf--datapoints--princeton_if_index--by--area--year.csv
 "area,year",total_fertility_rate,ddf--datapoints--total_fertility_rate--by--area--year.csv
 "area,year",total_fertility_rate_interpolated,ddf--datapoints--total_fertility_rate_interpolated--by--area--year.csv
 area,name,ddf--entities--area.csv
